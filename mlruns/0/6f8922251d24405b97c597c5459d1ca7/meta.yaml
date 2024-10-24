@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Harold/Documents/Projects/End_to_end_ML/mlruns/0/6f8922251d24405b97c597c5459d1ca7/artifacts
+end_time: 1729773616038
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f8922251d24405b97c597c5459d1ca7
+run_name: crawling-dove-883
+run_uuid: 6f8922251d24405b97c597c5459d1ca7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729773607487
+status: 4
+tags: []
+user_id: Harold
